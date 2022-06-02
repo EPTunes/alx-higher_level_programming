@@ -4,9 +4,10 @@ This repository contains programs written for the higher-level programming track
 0x00. Python - Hello, World
 0x01-python-if_else_loops_functions
 0x02-python-import_modules
-Author :
+
+# Author :
 Prince Ekwuribe <EPTunes>
-Acknowledgements 🙏
+  
+# Acknowledgements 🙏
 All work contained in this project was completed as part of the curriculum for ALX Africa Software Engineering. ALX Africa is an online full-stack software engineering program enables students become solution providers in the tech industry using project-based peer learning. For more information, visit this link. 
 https://www.alxafrica.com
-ALX Afroca Logo
